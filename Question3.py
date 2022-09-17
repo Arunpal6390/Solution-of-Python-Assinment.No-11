@@ -5,3 +5,4 @@ while(n>0):
     sum=sum+(n**3)
     n=n-1
 print("The sum of first n square natural numbers is",sum)
+
